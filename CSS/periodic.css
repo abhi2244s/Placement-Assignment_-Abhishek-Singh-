@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+}
+.para{
+    padding: 19px;
+}
+.para1{
+    padding-bottom: 15.5px;
+}
+.section{
+    display: flex;
+}
+
+.btn{
+    border: 1px solid black;
+    width: 30px;
+    
+    text-align: center;
+    background-color: fuchsia;
+    margin: 5px;
+}
+.btn-container{
+    margin-left: 8px;
+    
+}
+.div{
+    margin-top: 60px;
+}
